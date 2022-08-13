@@ -1,6 +1,5 @@
 # Add-a-chatbot-to-my-website
-In this repositoriy, I added a chatbot into my website to help visitors and answer their questions.
-I use Tidio chatpot, which is a live chat plugin to help make unlimited contacts and conversations.
+In this repository, I added a chatbot into my website to help visitors and answer their questions. I use Tidio chatbot, which is a live chat plugin to help make unlimited contacts and conversations.
 
 # How it works?
 by visiting the website: https://arspeechtotext.000webhostapp.com/
